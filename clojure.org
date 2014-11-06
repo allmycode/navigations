@@ -4,3 +4,5 @@
  интересный код спеллчекера Питера Норвига
  http://norvig.com/spell-correct.html - тут оригинальный спеллчекер
  со стоящей за ним математикой
+** zookeeper
+   http://zookeeper.apache.org/doc/trunk/zookeeperProgrammers.html#sc_zkDataMode_watches - manual
